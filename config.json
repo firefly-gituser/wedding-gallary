@@ -1,4 +1,6 @@
 {
+    "urlPattern": "https://raw.githubusercontent.com/firefly-gituser/wedding-gallary/refs/heads/main/{image_name}",
+    "variableName": "{image_name}",
     "mobileHero": "HDS_4927.JPG",
     "hero": "HDS_4914.JPG",
     "pattern": "HDS_4914.JPG",
