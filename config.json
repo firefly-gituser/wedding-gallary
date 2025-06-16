@@ -1,22 +1,15 @@
 {
     "urlPattern": "https://raw.githubusercontent.com/firefly-gituser/wedding-gallary/refs/heads/main/{image_name}",
     "variableName": "{image_name}",
-    "mobileHero": "HDS_5666.JPG",
-    "hero": "HDS_5071.JPG",
-    "pattern": "HDS_4914.JPG",
+    "mobileHero": "HDS_5568.jpg",
+    "hero": "HDS_4874.jpeg",
+    "pattern": "HDS_6190.jpg",
     "gallary": [
-        "HDS_4603.JPG",
-        "HDS_5029.JPG",
-        "HDS_5082.JPG",
-        "HDS_5617.JPG",
-        "HDS_5423.JPG", 
-        "HDS_6190.JPG",
-        "HDS_5409.JPG",
-        "HDS_5555.JPG",
-        "HDS_5424.JPG",
-
-        "HDS_5558.JPG",
-        "HDS_5409.JPG",
-        "HDS_5881.JPG"
+        "HDS_4915.jpg",
+        "HDS_5064.jpg",
+        "HDS_5639.jpg",
+        "HDS_5684.jpg",
+        "HDS_5690.jpg",
+        "HDS_6119.jpg"
     ]
 }
